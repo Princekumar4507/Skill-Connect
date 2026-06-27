@@ -120,7 +120,7 @@ This project is licensed under the MIT License.
 
 👨‍💻 Developer
 
-Developed with ❤️ by Rahul Kashyap
+Developed by Prince kumar
 
 GitHub: https://github.com/rahulkashyapp
 ⭐ Support
