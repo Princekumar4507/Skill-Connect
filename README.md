@@ -78,7 +78,7 @@ skill-connect/
 ⚙️ Installation & Setup
 
 1️⃣ Clone the Repository
-git clone https://github.com/rahulkashyapp/skill-connect.git
+git clone https://github.com/Princekumar4507/Skill-Connect
 
 2️⃣ Navigate to Project Folder
 cd skill-connect
